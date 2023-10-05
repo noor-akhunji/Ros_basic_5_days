@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="my_publisher_example_pkg" type="publisher_code.py" name="move_robot" output="screen">
+
+    </node>
+</launch>

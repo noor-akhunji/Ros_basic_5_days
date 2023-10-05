@@ -1,0 +1,5 @@
+int32 side_length
+---
+int32 current_side
+---
+float32 total_time
