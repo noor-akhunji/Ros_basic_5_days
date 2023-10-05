@@ -1,0 +1,13 @@
+# Action Definition for Recording Odometry Positions
+# Save this file as record_odom.action
+
+# Define the Goal message (if needed)
+# actionlib_msgs/GoalID goal_id
+
+# Define the Result message
+---
+float64[] positions  # A list or array to store odometry positions
+---
+
+# Define the Feedback message (if needed)
+# feedback message_definition

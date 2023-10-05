@@ -1,0 +1,5 @@
+# ~/catkin_ws/src/basics_exam/config/ros_params.yaml
+
+robot_name: "husky"
+laser_topic: "/scan"
+# Add other parameters as needed
